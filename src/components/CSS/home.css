@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titleHome{
+    text-align: center;
+    margin: 25px;
+}
+.containerImg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.containerImg img{
+    width: 80vw;
+    min-width: 200px;
+    margin: 30px;
+    box-shadow: 0 0 5px 5px black;
+}

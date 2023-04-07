@@ -1,0 +1,27 @@
+.containerForm{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    /* background-color: blanchedalmond; */
+
+}
+.containerForm div{
+    margin: 20px;
+}
+.itemForm input{
+    height: 30px;
+    text-align: center;
+}
+.btnSend{
+    padding: 8px;
+    border-radius: 5px;
+}
+.btnSend:hover{
+    background-color: silver;
+    cursor: pointer;
+    color: white;
+}
+form{
+    background-color: rgba(233, 222, 222, 0.459);
+}

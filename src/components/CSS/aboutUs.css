@@ -1,0 +1,20 @@
+.containerUs{
+    /* background-color: yellow; */
+    height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.containerUs div{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 30px;
+    align-items: center;
+}
+.containerUs p{
+    padding: 15px;
+    line-height: 1.7;
+    text-align: center;
+}
